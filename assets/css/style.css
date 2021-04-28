@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #0e4f71;
+  color: #1f91a8;
 }
 
 a:hover {
-  color: #1f91a8;
+  color: #0e4f71;
   text-decoration: none;
 }
 
@@ -1307,12 +1307,14 @@ section {
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
   margin-top: 5px;
-  text-align: left;
+  /*text-align: left;*/
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot {
   display: inline-block;
-  margin: auto;
+  margin: 0 10px 0 0;
   width: 12px;
   height: 12px;
   border-radius: 50%;
