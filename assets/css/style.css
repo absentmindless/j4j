@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     top: 0;
     padding: 15px 0;
-    background: transparent;                                            /* originally "transparent" changed to "rgba 000 0.9" */
+    background: rgba(0,0,0,0.9);                                            /* originally "transparent" changed to "rgba 000 0.9" */
   }
   #header .logo {
     font-size: 28px;
