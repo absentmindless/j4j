@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /community-needs/
+Disallow: /assets/
 Sitemap: https://jains4justice.org/sitemap.xml
